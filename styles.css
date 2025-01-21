@@ -51,8 +51,8 @@ header{
     font-weight: bold;
     color: rgb(47, 0, 255);
     background-color: rgb(196, 184, 115);
-    scroll-padding: 200px;
-    padding-bottom: 10px;
+    padding-top:  5px;
+    padding-bottom: 5px;
 
 }
 footer{
@@ -60,7 +60,7 @@ footer{
     font-weight: bold;
     color: rgb(0, 30, 255);
     background-color: rgb(175, 104, 17);
-    padding-left: 30px;
+    padding-top:   10px;
     padding-bottom: 10px;
 
 }
